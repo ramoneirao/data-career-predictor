@@ -34,16 +34,8 @@ O trabalho segue o processo KDD (Knowledge Discovery in Databases) para extrair 
 
 ## Modelos Utilizados
 O projeto implementa dois modelos de Machine Learning, escolhidos entre as seguintes opções:
-- Regressão Logística
-- Árvore de Decisão
-- Florestas Aleatórias
 - Máquina de Vetor de Suporte
 - Redes Neurais Artificiais
-
-Cada modelo é avaliado com base em métricas de desempenho, como acurácia e matriz de confusão.
-
-## Prazo de Entrega
-O projeto deve ser entregue até **20 de março de 2025 às 23:59** no formato `.ipynb`, conforme as diretrizes da disciplina.
 
 ## Referências
 - [State of Data Brazil 2022](https://www.kaggle.com/datasets/datahackers/state-of-data-2022)  
