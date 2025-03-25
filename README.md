@@ -35,7 +35,7 @@ O trabalho segue o processo KDD (Knowledge Discovery in Databases) para extrair 
 ## Modelos Utilizados
 O projeto implementa dois modelos de Machine Learning, escolhidos entre as seguintes opções:
 - Máquina de Vetor de Suporte
-- Redes Neurais Artificiais
+- Regressão Logistica
 
 ## Referências
 - [State of Data Brazil 2022](https://www.kaggle.com/datasets/datahackers/state-of-data-2022)  
