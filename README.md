@@ -44,5 +44,4 @@ O projeto implementa dois modelos de Machine Learning, escolhidos entre as segui
 ---
 
 **Autor:** Ramon Neirão Mendes  
-**Contato:** ramon.mendes@icen.ufpa.br
-
+**Contato:** ramonneirao@gmail.com
